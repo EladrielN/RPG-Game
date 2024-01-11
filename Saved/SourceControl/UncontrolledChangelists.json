@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/ABP_RPG_RPGCharacter.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/Z8/KDJ8KAAIHWDYYPX03353IY.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Crouched/Crouched.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Basic_Floor.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Wood_Walnut.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Wood_Oak.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Brick_Clay_New.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Props/Materials/M_Bush.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/Mannequins/Animations/Lean/lean_left.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/Mannequins/Animations/Lean/leanLeft.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/Mannequins/Animations/Lean/leanRight.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/Mannequins/Animations/Lean/Lean.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Materials/M_Water_Ocean.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Materials/LifeGoo.uasset",
+				"C:/Users/eladr/OneDrive/Documents/Unreal Projects/Game/Content/Characters/RPG_Character/Animations/Crouched/UncrouchJump.uasset"
+			]
+		}
+	]
+}
